@@ -1,0 +1,4 @@
+python-telegram-bot==21.x
+python-dotenv==1.0.1
+flask==3.0.x
+gunicorn==22.0.0
